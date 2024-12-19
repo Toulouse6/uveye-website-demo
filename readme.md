@@ -1,4 +1,5 @@
 ## The UVeye Website
+**© All right reserved to UVeye INC.**
 
 <img align="right" src="/1-homepage.png" alt="uveye-website" width="350">
 
@@ -9,7 +10,6 @@ UVeye is a computer vision company that develops automated inspection systems fo
 **Live Website:** 
 <br>https://www.uveye.com/
 
-© All right reserved to UVeye INC.
 ---
 
 **Technologies:**
