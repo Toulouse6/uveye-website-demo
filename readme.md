@@ -1,5 +1,5 @@
 ## The UVeye Website
-**© All right reserved to UVeye INC.**
+**© All rights reserved to UVeye INC.**
 
 <img align="right" src="/1-homepage.png" alt="uveye-website" width="350">
 
@@ -31,8 +31,4 @@ UVeye is a computer vision company that develops automated inspection systems fo
 - **Careers**
 - **Contact Us**
 - **Blog**
-
----
-
-**Author**: Tal Argaman
 
