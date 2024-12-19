@@ -1,10 +1,9 @@
 ## The UVeye Website
 
-<img align="right" src="/1-homepage.png" alt="zeex-website" width="350">
+<img align="right" src="/1-homepage.png" alt="uveye-website" width="350">
 
-The UVeye platform revolutionizes vehicle inspections with advanced AI, proprietary hardware, and a seamless interface, delivering fast & precise diagnostics for safety, quality, and maintenance in the automotive & security industries.
+UVeye is a computer vision company that develops automated inspection systems for vehicles, powered by artificial intelligence and proprietary hardware. Deployed at over 400 locations worldwide, UVeye is trusted by industry leaders like General Motors, Amazon, Volvo Cars, Carmax, and more.
 
-Deployed at over 400 locations worldwide, UVeye is trusted by industry leaders like General Motors, Amazon, Volvo Cars, Carmax, and more.
 **This repository showcases the UVeye.com website with screenshots.**
 
 **Live Website:** 
