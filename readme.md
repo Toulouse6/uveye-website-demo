@@ -9,6 +9,7 @@ UVeye is a computer vision company that develops automated inspection systems fo
 **Live Website:** 
 <br>https://www.uveye.com/
 
+© All right reserved to UVeye INC.
 ---
 
 **Technologies:**
