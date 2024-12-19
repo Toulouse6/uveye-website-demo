@@ -20,13 +20,15 @@ UVeye is a computer vision company that develops automated inspection systems fo
 - **WordPress**
 - **Elementor**
 - **HubSpot**
+- **Calendly**
 
 ---
 
 **Featured Pages:**
 
-- **Homepage**
+- **Home**
 - **Solutions**
+- **Product**
 - **About UVeye**
 - **Careers**
 - **Contact Us**
