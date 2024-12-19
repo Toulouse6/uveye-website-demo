@@ -14,7 +14,7 @@ UVeye is a computer vision company that develops automated inspection systems fo
 
 **Technologies:**
 
-- **JavaScript**
+- **JavaScript ES6**
 - **CSS3**
 - **HTML5**
 - **WordPress**
